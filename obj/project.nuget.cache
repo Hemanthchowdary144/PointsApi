@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "urmQQGn4G2kD8hQI/c0UbsR5Pe3WkRad55Hg5HOwIZZaJENJa+/Y+tcnlFdDpro2Tdl9wHdPa2bYT/yLScHdgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hrushi\\Desktop\\Cognizant Doc\\CorporateClassifieds\\Points\\PointsMicroservice\\PointsMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hrushi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hrushi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
